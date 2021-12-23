@@ -1,0 +1,20 @@
+{
+  "name": "sub",
+  "version": "1.0.0",
+  "description": "sub server for a simple notification system ",
+  "main": "app.js ",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "sub",
+    "express",
+    "panaea",
+    "nodejs"
+  ],
+  "author": "Islam Mostafa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}

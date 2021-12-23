@@ -1,0 +1,21 @@
+{
+  "name": "pub",
+  "version": "1.0.0",
+  "description": "pub server for a simple notification system",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "publisher",
+    "http",
+    "pangaea",
+    "express"
+  ],
+  "author": "Islam Mostafa",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.2"
+  }
+}
